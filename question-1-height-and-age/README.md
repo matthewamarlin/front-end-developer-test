@@ -10,7 +10,7 @@ Any language/s can be used, but there must be the following included:
 - An output which displays the results (e.g. Adult & Short)
 
 ## Inputs
-Age is a positive integer
+Age is a positive integer  
 Height is a positive decimal value
 
 ## Process
