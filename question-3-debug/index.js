@@ -1,6 +1,6 @@
 windo.toRna = function (dna) {
     var output = '';
-    for (var i = 0; i < dna.length; i+) {
+    for (var i = 0; i < dna.length - 1; i+) {
         var current = dna[i];
         if (current == 'G')
             output += 'C'
