@@ -1,10 +1,12 @@
 # String Transformer
 
-This program needs to transform a string according to the following pattern:
+This program needs to transform a string according to the following pattern but it contains some errors:
 * `G` -> `C`
 * `C` -> `G`
 * `T` -> `A`
 * `A` -> `U`
+
+Once the output is as described in the test cases below, the challenge is complete. :-)
 
 ## Test Cases
 
